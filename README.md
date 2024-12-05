@@ -1,6 +1,6 @@
 # Recommendation-Systems-Studio
 
-This repository is a documentation of my learning journey in understanding and implementing **Recommendation Systems**. It is inspired by the insightful tutorial series by the [Data Mentor YouTube channel](https://youtu.be/kPxASj5wJBY?si=r52D1vpCKI2cJZyL).  
+This repository is a documentation of my learning journey in understanding and implementing **Recommendation Systems**. It is inspired by the insightful tutorial series by the [Data Mentor YouTube channel](https://youtu.be/kPxASj5wJBY?si=r52D1vpCKI2cJZyL) and [Krish Naik](https://youtu.be/_hf_y-_sj5Y?si=ISw4-Va6A4gCHZoH).  
 
 ## Overview  
 
